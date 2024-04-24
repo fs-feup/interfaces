@@ -1,3 +1,3 @@
 std_msgs/Header header
-int32 steering_angle
-int32 steering_speed
+float64 steering_angle
+float64 steering_speed
