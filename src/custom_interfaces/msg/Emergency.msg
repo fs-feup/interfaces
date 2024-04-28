@@ -1,2 +1,2 @@
 std_msgs/Header header
-bool activate_EBS
+bool activate_ebs

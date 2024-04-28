@@ -19,6 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Pose.msg"
   "msg/BoundingBox.msg"
   "msg/BoundingBoxes.msg"
+  "msg/Emergency.msg"
   "msg/VcuCommand.msg"
   "msg/PathPoint.msg"
   "msg/PathPointArray.msg"
