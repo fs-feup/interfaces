@@ -1,3 +1,4 @@
+# NOT USED CURRENTLY (ADS-DV)
 uint16 handshake_receive_bit
 uint16 res_go_signal
 uint16 as_state

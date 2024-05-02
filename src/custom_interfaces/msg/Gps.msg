@@ -1,3 +1,4 @@
+# NOT USED CURRENTLY (ADS-DV)
 uint8 gps_antennastatus
 uint8 gps_numsatellites
 uint8 gps_navigationmethod

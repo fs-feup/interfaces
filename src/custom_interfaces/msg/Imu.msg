@@ -1,3 +1,4 @@
+# NOT USED CURRENTLY (ADS-DV)
 float64 imu_acceleration_x_mg
 float64 imu_acceleration_y_mg
 float64 imu_acceleration_z_mg

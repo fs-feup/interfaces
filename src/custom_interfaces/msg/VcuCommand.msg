@@ -1,3 +1,4 @@
+# NOT USED CURRENTLY (ADS-DV)
 uint16 status
 uint16 direction_request
 uint16 estop_request

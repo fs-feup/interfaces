@@ -1,3 +1,4 @@
+# NOT USED CURRENTLY (CAMERA)
 float32 probability
 uint16 xmin
 uint16 ymin
