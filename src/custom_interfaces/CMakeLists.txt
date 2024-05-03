@@ -14,12 +14,12 @@ find_package(std_msgs REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Cone.msg"
   "msg/ConeArray.msg"
+  "msg/ControlCommand.msg"
   "msg/Point2d.msg"
   "msg/PointArray.msg"
   "msg/Pose.msg"
   "msg/BoundingBox.msg"
   "msg/BoundingBoxes.msg"
-  "msg/Emergency.msg"
   "msg/VcuCommand.msg"
   "msg/PathPoint.msg"
   "msg/PathPointArray.msg"
