@@ -17,7 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ControlCommand.msg"
   "msg/Point2d.msg"
   "msg/PointArray.msg"
-  "msg/Pose.msg"
+  "msg/VehicleState.msg"
   "msg/BoundingBox.msg"
   "msg/BoundingBoxes.msg"
   "msg/VcuCommand.msg"
