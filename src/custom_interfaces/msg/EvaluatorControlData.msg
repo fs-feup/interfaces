@@ -1,0 +1,5 @@
+std_msgs/Header header
+custom_interfaces/VehicleState vehicle_state
+custom_interfaces/PathPoint lookahead_point
+custom_interfaces/PathPoint closest_point
+float64 lookahead_velocity
