@@ -1,5 +1,5 @@
 std_msgs/Header header
 custom_interfaces/VehicleState vehicle_state
-custom_interfaces/PathPoint lookahead_point
-custom_interfaces/PathPoint closest_point
+custom_interfaces/Point2d lookahead_point
+custom_interfaces/Point2d closest_point
 float64 lookahead_velocity
