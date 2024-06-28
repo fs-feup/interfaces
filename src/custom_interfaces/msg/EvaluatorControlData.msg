@@ -3,3 +3,4 @@ custom_interfaces/VehicleState vehicle_state
 custom_interfaces/Point2d lookahead_point
 custom_interfaces/Point2d closest_point
 float64 lookahead_velocity
+float64 closest_point_velocity
