@@ -33,6 +33,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/EvaluatorControlData.msg"
   "msg/YawPitchRoll.msg"
   "msg/ImuAcceleration.msg"
+  "msg/HydraulicLinePressure.msg"
   DEPENDENCIES builtin_interfaces std_msgs 
 )
 
