@@ -1,0 +1,12 @@
+uint32 hydraulicPressure 
+bool emergencySignal 
+bool pneumaticLinePressure 
+bool engageEbsCheck 
+bool realeaseEbsCheck 
+bool steerDead 
+bool pcDead 
+bool inversorDead 
+bool resDead 
+bool asmsOn 
+bool tsOn 
+bool sdcOpen 
