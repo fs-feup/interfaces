@@ -12,3 +12,4 @@ bool ts_on
 bool sdc_open 
 uint8 mission
 uint8 master_state
+uint8 checkup_state
