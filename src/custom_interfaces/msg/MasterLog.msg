@@ -10,3 +10,4 @@ bool res_dead
 bool asms_on 
 bool ts_on 
 bool sdc_open 
+uint8 mission
